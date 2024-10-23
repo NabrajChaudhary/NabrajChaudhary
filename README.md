@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 - 🌱 I’m currently learning JavaScript, TypeScript, NodeJS
-- 📫 How to reach me: [...](https://www.linkedin.com/in/nabraj-chaudhary-94091b208/)
+- 📫 How to reach me:<a href="https://www.linkedin.com/in/nabraj-chaudhary-94091b208/">Linkedin </a>
  <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
