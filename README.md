@@ -9,7 +9,6 @@ I am a frontend web developer with 2.5 years of professional experience, special
 * 🌍  I'm based in Kathmandu, Nepal
 * 🖥️  See my portfolio at [Website](http://www.nabrajchauhary.com.np)
 * ✉️  You can contact me at [nabrajchaudhary1412@gmail.com](mailto:nabrajchaudhary1412@gmail.com)
-* 🚀  I'm currently working on [Hazesoft P. L.](http://www.hazesoft.co)
 * 🧠  I'm learning Node JS, TypeScript, MongoDB, Express
 * 🤝  I'm open to collaborating on MERN stack App
 
